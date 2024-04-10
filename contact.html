@@ -75,7 +75,7 @@ hr {
     <div class="container">
         <h2>Contact Me</h2>
         <p>Feel free to contact me at my personal or school email, or through the form below!<br><br>Personal: pgclark31@gmail.com<br>School: pclark44@students.kennesaw.edu</p>
-	<form id="contactForm" onsubmit="return validateForm()">
+        <form id="contactForm" action="/submit-form" method="POST" onsubmit="return validateForm()">
             <label for="name">Name:</label>
             <input type="text" id="name" name="name" required><br><br>
             <label for="email">Email:</label>
@@ -86,21 +86,40 @@ hr {
         </form>
     </div>
 
+    <div class="container" id="popup" style="display: none;">
+        Form submission successful! Thank you!
+    </div>
+
+    <script>
+        document.getElementById('contactForm').addEventListener('submit', async (event) => {
+            event.preventDefault(); // Prevent default form submission
+
+            // Send the form data to the server
+            const response = await fetch('/submit-form', {
+                method: 'POST',
+                body: new FormData(event.target),
+            });
+
+            if (response.ok) {
+                // Show the popup message
+                document.getElementById('popup').style.display = 'block';
+                resetFormFields(); // Clear form fields
+            } else {
+                // Handle errors
+                console.error('Form submission failed.');
+            }
+        });
+
+        // Function to reset form fields
+        function resetFormFields() {
+            document.getElementById('name').value = '';
+            document.getElementById('email').value = '';
+            document.getElementById('message').value = '';
+        }
+    </script>
+
     <footer>
         <p>&copy; 2024 Preston Clark</p>
     </footer>
-
-    <script>
-        function validateForm() {
-            var name = document.getElementById('name').value;
-            var email = document.getElementById('email').value;
-            var message = document.getElementById('message').value;
-            if (name.trim() == "" || email.trim() == "" || message.trim() == "") {
-                alert("Please fill out all fields.");
-                return false;
-            }
-            return true;
-        }
-    </script>
 </body>
 </html>
