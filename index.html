@@ -1,117 +1,106 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Homepage</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f0f0f0;
-            color: #333;
-        }
-
-        header {
-            background-color: #333;
-            color: #fff;
-            padding: 10px 0;
-            text-align: center;
-        }
-
-        nav {
-            text-align: center;
-            margin-bottom: 20px;
-        }
-
-        nav a {
-            text-decoration: none;
-            color: #fff;
-            padding: 10px 20px;
-            background-color: #555;
-            border-radius: 5px;
-            transition: background-color 0.3s;
-        }
-
-        nav a:hover {
-            background-color: #777;
-        }
-
-        .container {
-            max-width: 960px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-
-        footer {
-            background-color: #333;
-            color: #fff;
-            text-align: center;
-            padding: 10px 0;
-            position: fixed;
-            bottom: 0;
-            width: 100%;
-        }
-
-        .image-container {
-            display: flex;
-            justify-content: center;
-        }
-
-        img {
-            height: 300px;
-            margin-right: 10px;
-        }
-
-        hr {
-            border: none;
-            height: 1px;
-            background-color: #333;
-            margin: 20px 0;
-        }
-
-        /* Media Queries for Responsive Design */
-
-        @media only screen and (max-width: 600px) {
-            .image-container {
-                flex-wrap: wrap;
-            }
-
-            img {
-                width: 100%;
-                height: auto;
-                margin-bottom: 10px;
-            }
-        }
-    </style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Book Data Viewer Project</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f0f0f0;
+      color: #333;
+    }
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 10px 0;
+      text-align: center;
+    }
+    nav {
+      text-align: center;
+      margin-bottom: 10px;
+    }
+    nav a {
+      text-decoration: none;
+      color: #fff;
+      padding: 10px 20px;
+      background-color: #555;
+      border-radius: 5px;
+      margin: 0 5px;
+      transition: background-color 0.3s;
+    }
+    nav a:hover {
+      background-color: #777;
+    }
+    .container {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    footer {
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+      padding: 10px 0;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+    ul {
+      line-height: 1.8em;
+    }
+    .image-container {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    img {
+      height: 180px;
+      margin: 5px;
+    }
+  </style>
 </head>
 <body>
 <header>
-    <h1>Homepage</h1>
-    <nav>
-        <a href="index.html">Home</a>
-        <a href="about.html">About</a>
-        <a href="contact.html">Contact</a>
-    </nav>
+  <h1>Book Data Viewer Project</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+  </nav>
 </header>
 
 <div class="container">
-    <h2>Home</h2>
-    <p>Welcome to my website! Here I will be showcasing all of the projects for the IT 4403 Advanced Web and Mobile Applications Summer 2025 Section W01 course.</p>
-    <p>My introduction can be found in the About page.</p>
-    <p>https://ccse.kennesaw.edu/it/</p>
+  <h2>Welcome</h2>
+  <p><strong>Author:</strong> Preston Clark</p>
+  <p><strong>Affiliation:</strong> Kennesaw State University</p>
+  <p><strong>Course:</strong> IT 4403 – Advanced Web and Mobile Applications (Summer 2025 – Section W01)</p>
+  <p><a href="https://ccse.kennesaw.edu/it/" target="_blank">Visit the IT Department at KSU</a></p>
+
+  <h3>Project Overview</h3>
+  <p>This website displays structured JSON data from online and local sources using jQuery. Each milestone explores different aspects of data processing and presentation.</p>
+
+  <h3>Milestones</h3>
+  <ul>
+    <li><a href="milestone1.html">Milestone 1 – Displaying Book JSON Data</a></li>
+    <li><a href="#">Milestone 2 – Coming Soon</a></li>
+    <li><a href="#">Milestone 3 – Coming Soon</a></li>
+    <li><a href="#">Milestone 4 – Coming Soon</a></li>
+  </ul>
+
+  <div class="image-container">
+    <img src="image1.jpg" alt="Sample 1">
+    <img src="image2.jpg" alt="Sample 2">
+    <img src="image3.jpg" alt="Sample 3">
+    <img src="image4.jpg" alt="Sample 4">
+    <img src="image5.jpg" alt="Sample 5">
+  </div>
 </div>
-<br>
-<div class="image-container">
-    <img src="image1.jpg">
-    <img src="image2.jpg">
-    <img src="image3.jpg">
-    <img src="image4.jpg">
-    <img src="image5.jpg">
-</div>
+
 <footer>
-    <p>&copy; 2025 Preston Clark</p>
+  <p>&copy; 2025 Preston Clark</p>
 </footer>
 </body>
 </html>
