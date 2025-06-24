@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Book List Display</title>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .book { border-bottom: 1px solid #ccc; padding: 10px; }
+        img { max-width: 100px; }
+    </style>
+</head>
+<body>
+    <div id="books"></div>
+    <script>
+        $(document).ready(function(){
+            $.getJSON('google-books-search.json', function(data){
+                data.items.forEach(item => {
+                    const info = item.volumeInfo;
+                    const htmlContent = `
+                        <div class="book">
+                            <h2>${info.title}</h2>
+                            <h3>By: ${info.authors ? info.authors.join(", ") : 'Unknown'}</h3>
+                            ${info.imageLinks ? `<img src="${info.imageLinks.thumbnail}" alt="${info.title}">` : ''}
+                            <p>${info.description ? info.description : 'No description available.'}</p>
+                            <p><strong>Publisher:</strong> ${info.publisher ? info.publisher : 'N/A'}</p>
+                            <p><strong>Published Date:</strong> ${info.publishedDate ? info.publishedDate : 'N/A'}</p>
+                            <p><a href="${info.infoLink}" target="_blank">More Information</a></p>
+                        </div>
+                    `;
+                    $('#books').append(htmlContent);
+                });
+            });
+        });
+    </script>
+</body>
+</html>

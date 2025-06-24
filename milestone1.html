@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Single Book Display</title>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        img { max-width: 200px; }
+    </style>
+</head>
+<body>
+    <div id="book"></div>
+    <script>
+        $(document).ready(function(){
+            $.getJSON('google-books-book.json', function(data){
+                const info = data.volumeInfo;
+                const htmlContent = `
+                    <h2>${info.title}</h2>
+                    <h3>By: ${info.authors.join(", ")}</h3>
+                    <img src="${info.imageLinks.thumbnail}" alt="${info.title}">
+                    <p>${info.description}</p>
+                    <p><strong>Publisher:</strong> ${info.publisher}</p>
+                    <p><strong>Published Date:</strong> ${info.publishedDate}</p>
+                    <p><a href="${info.infoLink}" target="_blank">More Information</a></p>
+                `;
+                $('#book').html(htmlContent);
+            });
+        });
+    </script>
+</body>
+</html>
