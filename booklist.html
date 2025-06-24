@@ -1,91 +1,77 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Book List Display</title>
-    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
-   <style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Book List Display</title>
+  <style>
     body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #f0f0f0;
-      color: #333;
+      font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f0f0f0; color: #333;
     }
     header {
-      background-color: #333;
-      color: #fff;
-      padding: 10px 0;
-      text-align: center;
+      background-color: #333; color: #fff; padding: 10px 0; text-align: center;
     }
     nav {
-      text-align: center;
-      margin-bottom: 10px;
+      text-align: center; margin-bottom: 10px;
     }
     nav a {
-      text-decoration: none;
-      color: #fff;
-      padding: 10px 20px;
-      background-color: #555;
-      border-radius: 5px;
-      margin: 0 5px;
-      transition: background-color 0.3s;
+      text-decoration: none; color: #fff; padding: 10px 20px; background-color: #555; border-radius: 5px; margin: 0 5px; transition: background-color 0.3s;
     }
     nav a:hover {
       background-color: #777;
     }
     .container {
-      max-width: 960px;
-      margin: 0 auto;
-      padding: 20px;
-      padding-bottom: 60px;
+      max-width: 960px; margin: 0 auto; padding: 20px; padding-bottom: 60px;
     }
     footer {
-      background-color: #333;
-      color: #fff;
-      text-align: center;
-      padding: 10px 0;
-      position: fixed;
-      bottom: 0;
-      width: 100%;
+      background-color: #333; color: #fff; text-align: center; padding: 10px 0; position: fixed; bottom: 0; width: 100%;
     }
-    ul {
-      line-height: 1.8em;
-    }
-    .image-container {
-      display: flex;
-      justify-content: center;
-      flex-wrap: wrap;
-    }
-    img {
-      height: 180px;
-      margin: 5px;
-    }
+    .book { border-bottom: 1px solid #ccc; padding: 10px; }
+    img { max-width: 100px; }
   </style>
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
 </head>
 <body>
-    <div id="books"></div>
-    <script>
-        $(document).ready(function(){
-            $.getJSON('google-books-search.json', function(data){
-                data.items.forEach(item => {
-                    const info = item.volumeInfo;
-                    const htmlContent = `
-                        <div class="book">
-                            <h2>${info.title}</h2>
-                            <h3>By: ${info.authors ? info.authors.join(", ") : 'Unknown'}</h3>
-                            ${info.imageLinks ? `<img src="${info.imageLinks.thumbnail}" alt="${info.title}">` : ''}
-                            <p>${info.description ? info.description : 'No description available.'}</p>
-                            <p><strong>Publisher:</strong> ${info.publisher ? info.publisher : 'N/A'}</p>
-                            <p><strong>Published Date:</strong> ${info.publishedDate ? info.publishedDate : 'N/A'}</p>
-                            <p><a href="${info.infoLink}" target="_blank">More Information</a></p>
-                        </div>
-                    `;
-                    $('#books').append(htmlContent);
-                });
-            });
+<header>
+  <h1>Book Data Viewer Project</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+    <a href="milestone1.html">Single Book</a>
+  </nav>
+</header>
+
+<div class="container">
+  <h2>Book List Display</h2>
+  <div id="books"></div>
+</div>
+
+<footer>
+  <p>&copy; 2025 Preston Clark</p>
+</footer>
+
+<script>
+$(document).ready(function(){
+    $.getJSON('google-books-search.json', function(data){
+        data.items.forEach(item => {
+            const info = item.volumeInfo;
+            const htmlContent = `
+                <div class="book">
+                    <h3>${info.title}</h3>
+                    <h4>By: ${info.authors ? info.authors.join(", ") : 'Unknown'}</h4>
+                    ${info.imageLinks ? `<img src="${info.imageLinks.thumbnail}" alt="${info.title}">` : ''}
+                    <p>${info.description ? info.description : 'No description available.'}</p>
+                    <p><strong>Publisher:</strong> ${info.publisher ? info.publisher : 'N/A'}</p>
+                    <p><strong>Published Date:</strong> ${info.publishedDate ? info.publishedDate : 'N/A'}</p>
+                    <p><a href="${info.infoLink}" target="_blank">More Information</a></p>
+                </div>
+            `;
+            $('#books').append(htmlContent);
         });
-    </script>
+    });
+});
+</script>
+
 </body>
 </html>
