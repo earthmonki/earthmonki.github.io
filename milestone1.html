@@ -2,32 +2,95 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Single Book Display</title>
-    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
-    <style>
-        body { font-family: Arial, sans-serif; margin: 20px; }
-        img { max-width: 200px; }
-    </style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Milestone 1 - Displaying Book JSON Data</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f0f0f0;
+      color: #333;
+    }
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 10px 0;
+      text-align: center;
+    }
+    nav {
+      text-align: center;
+      margin-bottom: 10px;
+    }
+    nav a {
+      text-decoration: none;
+      color: #fff;
+      padding: 10px 20px;
+      background-color: #555;
+      border-radius: 5px;
+      margin: 0 5px;
+      transition: background-color 0.3s;
+    }
+    nav a:hover {
+      background-color: #777;
+    }
+    .container {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    footer {
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+      padding: 10px 0;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+    img {
+      max-width: 200px;
+    }
+  </style>
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
 </head>
 <body>
-    <div id="book"></div>
-    <script>
-        $(document).ready(function(){
-            $.getJSON('google-books-book.json', function(data){
-                const info = data.volumeInfo;
-                const htmlContent = `
-                    <h2>${info.title}</h2>
-                    <h3>By: ${info.authors.join(", ")}</h3>
-                    <img src="${info.imageLinks.thumbnail}" alt="${info.title}">
-                    <p>${info.description}</p>
-                    <p><strong>Publisher:</strong> ${info.publisher}</p>
-                    <p><strong>Published Date:</strong> ${info.publishedDate}</p>
-                    <p><a href="${info.infoLink}" target="_blank">More Information</a></p>
-                `;
-                $('#book').html(htmlContent);
-            });
-        });
-    </script>
+<header>
+  <h1>Book Data Viewer Project</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<div class="container">
+  <h2>Milestone 1 - Displaying Book JSON Data</h2>
+  <div id="book"></div>
+</div>
+
+<footer>
+  <p>&copy; 2025 Preston Clark</p>
+</footer>
+
+<script>
+$(document).ready(function(){
+    $.getJSON('google-books-book.json', function(data){
+        const info = data.volumeInfo;
+        const htmlContent = `
+            <h3>${info.title}</h3>
+            <h4>By: ${info.authors.join(", ")}</h4>
+            <img src="${info.imageLinks.thumbnail}" alt="${info.title}">
+            <p>${info.description}</p>
+            <p><strong>Publisher:</strong> ${info.publisher}</p>
+            <p><strong>Published Date:</strong> ${info.publishedDate}</p>
+            <p><a href="${info.infoLink}" target="_blank">More Information</a></p>
+        `;
+        $('#book').html(htmlContent);
+    });
+});
+</script>
+
 </body>
 </html>
