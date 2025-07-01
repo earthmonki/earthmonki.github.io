@@ -71,7 +71,7 @@ function fetchBookDetails(bookId) {
 
 function fetchBookshelf() {
   const userId = '102850353256067150808';
-  const shelfId = '1001';
+  const shelfId = '2';
   const url = `https://www.googleapis.com/books/v1/users/${userId}/bookshelves/${shelfId}/volumes`;
 
   $.getJSON(url, function (data) {
