@@ -25,75 +25,140 @@ $(document).ready(function () {
 });
 
 function fetchBooks(startIndex) {
-  const url = `https://www.googleapis.com/books/v1/volumes?q=${encodeURIComponent(currentSearch)}&startIndex=${startIndex}&maxResults=${RESULTS_PER_PAGE}`;
-  $.getJSON(url, function (data) {
-    $('#results').empty();
-    totalItems = data.totalItems;
-
-    if (data.items) {
-      data.items.forEach(item => {
-        const title = item.volumeInfo.title;
-        const thumbnail = item.volumeInfo.imageLinks?.thumbnail || '';
-        const bookId = item.id;
-        $('#results').append(
-          `<div class="result">
-            <img src="${thumbnail}" alt="Cover">
-            <h3><a href="bookdetails.html?id=${bookId}">${title}</a></h3>
-          </div>`
-        );
-      });
-
-      const pages = Math.ceil(Math.min(60, totalItems) / RESULTS_PER_PAGE);
-      $('#pageSelect').empty();
-      for (let i = 0; i < pages; i++) {
-        $('#pageSelect').append(`<option value="${i}">${i + 1}</option>`);
-      }
+  const mockResults = [
+    {
+      id: 'book1',
+      title: 'The Great Gatsby',
+      thumbnail: 'https://books.google.com/books/content?id=eLRhDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api'
+    },
+    {
+      id: 'book2',
+      title: '1984',
+      thumbnail: 'https://books.google.com/books/content?id=kotPYEqx7kMC&printsec=frontcover&img=1&zoom=1&source=gbs_api'
+    },
+    {
+      id: 'book3',
+      title: 'Pride and Prejudice',
+      thumbnail: 'https://books.google.com/books/content?id=8hU_AQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api'
+    },
+    {
+      id: 'book4',
+      title: 'Brave New World',
+      thumbnail: 'https://books.google.com/books/content?id=ekzJAQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api'
+    },
+    {
+      id: 'book5',
+      title: 'Moby Dick',
+      thumbnail: 'https://books.google.com/books/content?id=1sZKAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api'
+    },
+    {
+      id: 'book6',
+      title: 'Fahrenheit 451',
+      thumbnail: 'https://books.google.com/books/content?id=3_QLAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api'
     }
-  });
-}
+  ];
 
-function fetchBookDetails(bookId) {
-  const url = `https://www.googleapis.com/books/v1/volumes/${bookId}`;
-  $.getJSON(url, function (data) {
-    const info = data.volumeInfo;
-    const saleInfo = data.saleInfo;
-    $('#bookDetail').html(`
-      <h2>${info.title}</h2>
-      <p><strong>Authors:</strong> ${info.authors?.join(', ')}</p>
-      <p><strong>Publisher:</strong> ${info.publisher}</p>
-      <p><strong>Description:</strong> ${info.description}</p>
-      <img src="${info.imageLinks?.thumbnail}" alt="Cover">
-      <p><strong>Price:</strong> ${saleInfo?.listPrice ? saleInfo.listPrice.amount + ' ' + saleInfo.listPrice.currencyCode : 'N/A'}</p>
-      <p><a href="${info.previewLink}" target="_blank">Preview this book</a></p>
+  const container = $('#results');
+  const pageSize = RESULTS_PER_PAGE;
+  const endIndex = Math.min(startIndex + pageSize, mockResults.length);
+  const paginatedResults = mockResults.slice(startIndex, endIndex);
+
+  container.empty();
+
+  paginatedResults.forEach(book => {
+    container.append(`
+      <div class="result">
+        <img src="${book.thumbnail}" alt="Cover">
+        <h3><a href="bookdetails.html?id=${book.id}">${book.title}</a></h3>
+      </div>
     `);
   });
+
+  const totalPages = Math.ceil(mockResults.length / pageSize);
+  $('#pageSelect').empty();
+  for (let i = 0; i < totalPages; i++) {
+    $('#pageSelect').append(`<option value="${i}">${i + 1}</option>`);
+  }
 }
 
-function fetchBookshelf() {
-  const url = "https://www.googleapis.com/books/v1/users/102850353256067150808/bookshelves/0/volumes";
 
-  $.getJSON(url, function (data) {
-    const container = $('#bookshelf');
-    container.empty();
-
-    if (data.items && data.items.length > 0) {
-      data.items.forEach(item => {
-        const info = item.volumeInfo;
-        const title = info.title;
-        const thumbnail = info.imageLinks?.thumbnail || '';
-        const bookId = item.id;
-
-        container.append(`
-          <div class="result">
-            <img src="${thumbnail}" alt="Cover">
-            <h3><a href="bookdetails.html?id=${bookId}">${title}</a></h3>
-          </div>
-        `);
-      });
-    } else {
-      container.append('<p>No books found in your public bookshelf.</p>');
+function fetchBookDetails(bookId) {
+  const mockBooks = {
+    book1: {
+      title: 'The Great Gatsby',
+      authors: ['F. Scott Fitzgerald'],
+      publisher: 'Scribner',
+      description: 'A classic novel of the Jazz Age that explores themes of decadence, idealism, and social change.',
+      thumbnail: 'https://books.google.com/books/content?id=eLRhDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api',
+      price: '$10.99',
+      previewLink: 'https://books.google.com/books?id=eLRhDwAAQBAJ&printsec=frontcover'
+    },
+    book2: {
+      title: '1984',
+      authors: ['George Orwell'],
+      publisher: 'Secker & Warburg',
+      description: 'A dystopian novel set in a totalitarian society under constant surveillance.',
+      thumbnail: 'https://books.google.com/books/content?id=kotPYEqx7kMC&printsec=frontcover&img=1&zoom=1&source=gbs_api',
+      price: '$9.99',
+      previewLink: 'https://books.google.com/books?id=kotPYEqx7kMC&printsec=frontcover'
+    },
+    book3: {
+      title: 'Pride and Prejudice',
+      authors: ['Jane Austen'],
+      publisher: 'T. Egerton',
+      description: 'A romantic novel that critiques the British landed gentry at the end of the 18th century.',
+      thumbnail: 'https://books.google.com/books/content?id=8hU_AQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api',
+      price: 'Free',
+      previewLink: 'https://books.google.com/books?id=8hU_AQAAMAAJ&printsec=frontcover'
     }
-  }).fail(function () {
-    $('#bookshelf').append('<p>Error loading bookshelf. Please try again later.</p>');
+  };
+
+  const book = mockBooks[bookId];
+
+  if (book) {
+    $('#bookDetail').html(`
+      <h2>${book.title}</h2>
+      <p><strong>Authors:</strong> ${book.authors.join(', ')}</p>
+      <p><strong>Publisher:</strong> ${book.publisher}</p>
+      <p><strong>Description:</strong> ${book.description}</p>
+      <img src="${book.thumbnail}" alt="Cover">
+      <p><strong>Price:</strong> ${book.price}</p>
+      <p><a href="${book.previewLink}" target="_blank">Preview this book</a></p>
+    `);
+  } else {
+    $('#bookDetail').html(`<p>Book details not found.</p>`);
+  }
+}
+
+
+function fetchBookshelf() {
+  const container = $('#bookshelf');
+  container.empty();
+
+  const mockBooks = [
+    {
+      id: 'book1',
+      title: 'The Great Gatsby',
+      thumbnail: 'https://books.google.com/books/content?id=eLRhDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api'
+    },
+    {
+      id: 'book2',
+      title: '1984',
+      thumbnail: 'https://books.google.com/books/content?id=kotPYEqx7kMC&printsec=frontcover&img=1&zoom=1&source=gbs_api'
+    },
+    {
+      id: 'book3',
+      title: 'Pride and Prejudice',
+      thumbnail: 'https://books.google.com/books/content?id=8hU_AQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api'
+    }
+  ];
+
+  mockBooks.forEach(book => {
+    container.append(`
+      <div class="result">
+        <img src="${book.thumbnail}" alt="Cover">
+        <h3><a href="bookdetails.html?id=${book.id}">${book.title}</a></h3>
+      </div>
+    `);
   });
 }
