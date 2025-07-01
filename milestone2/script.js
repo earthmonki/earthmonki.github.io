@@ -70,7 +70,7 @@ function fetchBookDetails(bookId) {
 }
 
 function fetchBookshelf() {
-  const url = `https://www.googleapis.com/books/v1/users/102850353256067150808/bookshelves/2/volumes`;
+  const url = "https://www.googleapis.com/books/v1/users/102850353256067150808/bookshelves/0/volumes";
 
   $.getJSON(url, function (data) {
     const container = $('#bookshelf');
