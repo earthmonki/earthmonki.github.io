@@ -70,9 +70,9 @@ function fetchBookDetails(bookId) {
 }
 
 function fetchBookshelf() {
-  const userId = 'YOUR_USER_ID';
-  const shelfId = 'YOUR_SHELF_ID';
-  const url = \`https://www.googleapis.com/books/v1/users/\${userId}/bookshelves/\${shelfId}/volumes\`;
+  const userId = '102850353256067150808';
+  const shelfId = '1001';
+  const url = `https://www.googleapis.com/books/v1/users/${userId}/bookshelves/${shelfId}/volumes`;
 
   $.getJSON(url, function (data) {
     $('#bookshelf').empty();
@@ -82,12 +82,13 @@ function fetchBookshelf() {
         const thumbnail = item.volumeInfo.imageLinks?.thumbnail || '';
         const bookId = item.id;
         $('#bookshelf').append(
-          \`<div class="result">
-            <img src="\${thumbnail}" alt="Cover">
-            <h3><a href="bookdetails.html?id=\${bookId}">\${title}</a></h3>
-          </div>\`
+          `<div class="result">
+            <img src="${thumbnail}" alt="Cover">
+            <h3><a href="bookdetails.html?id=${bookId}">${title}</a></h3>
+          </div>`
         );
       });
     }
   });
 }
+
