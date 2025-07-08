@@ -69,542 +69,542 @@
   },
   {
     "id": "book6",
-    "title": "Sample Book 6",
+    "title": "The Hunger Games",
     "authors": [
-      "Diane Bonilla"
+      "Suzanne Collins"
     ],
-    "publisher": "Brown-Turner",
-    "description": "Kid pattern share suggest. Energy success glass.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$22.57",
-    "previewLink": "https://example.com/preview"
+    "publisher": "Scholastic Inc.",
+    "description": "Katniss Everdeen volunteers to take her sister's place in a fight to the death in the Hunger Games.",
+    "thumbnail": "https://books.google.com/books/content?id=mfL1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$9.99",
+    "previewLink": "https://books.google.com/books?id=mfL1DwAAQBAJ"
   },
   {
     "id": "book7",
-    "title": "Sample Book 7",
+    "title": "Catching Fire",
     "authors": [
-      "Robert Atkins"
+      "Suzanne Collins"
     ],
-    "publisher": "Morgan, Shepherd and Smith",
-    "description": "Show country yet program. Reflect off draw world east.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$12.15",
-    "previewLink": "https://example.com/preview"
+    "publisher": "Scholastic Inc.",
+    "description": "The second book of the Hunger Games trilogy, Katniss faces rebellion and new challenges in the arena.",
+    "thumbnail": "https://books.google.com/books/content?id=iU_JAwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$9.99",
+    "previewLink": "https://books.google.com/books?id=iU_JAwAAQBAJ"
   },
   {
     "id": "book8",
-    "title": "Sample Book 8",
+    "title": "Mockingjay",
     "authors": [
-      "Timothy Robertson"
+      "Suzanne Collins"
     ],
-    "publisher": "Reed Ltd",
-    "description": "Effort real door recent work statement order. Nothing attorney girl very break seem right analysis.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$27.03",
-    "previewLink": "https://example.com/preview"
+    "publisher": "Scholastic Inc.",
+    "description": "Katniss becomes the face of rebellion in the stunning conclusion to the Hunger Games trilogy.",
+    "thumbnail": "https://books.google.com/books/content?id=w9ZdDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$9.99",
+    "previewLink": "https://books.google.com/books?id=w9ZdDwAAQBAJ"
   },
   {
     "id": "book9",
-    "title": "Sample Book 9",
+    "title": "1984",
     "authors": [
-      "Adriana Novak"
+      "George Orwell"
     ],
-    "publisher": "Parsons-Hanson",
-    "description": "Anyone last second east. Into without return seven mean score.\nItem include minute soon might send. Perhaps rather side push very bar degree.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$12.13",
-    "previewLink": "https://example.com/preview"
+    "publisher": "Houghton Mifflin Harcourt",
+    "description": "A dystopian novel set in a totalitarian society ruled by Big Brother.",
+    "thumbnail": "https://books.google.com/books/content?id=kotPYEqx7kMC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$12.02",
+    "previewLink": "https://books.google.com/books?id=kotPYEqx7kMC"
   },
   {
     "id": "book10",
-    "title": "Sample Book 10",
+    "title": "Brave New World",
     "authors": [
-      "Brian Garrett"
+      "Aldous Huxley"
     ],
-    "publisher": "Davis Ltd",
-    "description": "Specific vote ability require page student. Career that share soldier push. Player art enter relationship.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$9.08",
-    "previewLink": "https://example.com/preview"
+    "publisher": "Harper Perennial",
+    "description": "A visionary dystopian novel about a future controlled by pleasure and conformity.",
+    "thumbnail": "https://books.google.com/books/content?id=ekC-MAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$15.12",
+    "previewLink": "https://books.google.com/books?id=ekC-MAEACAAJ"
   },
   {
     "id": "book11",
-    "title": "Sample Book 11",
+    "title": "To Kill a Mockingbird",
     "authors": [
-      "Juan Fitzpatrick"
+      "Harper Lee"
     ],
-    "publisher": "Hopkins-Wright",
-    "description": "Similar college top two very world.\nPossible exist long Congress off medical. Reduce thought of discover.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$13.67",
-    "previewLink": "https://example.com/preview"
+    "publisher": "HarperCollins",
+    "description": "A story of racial injustice and childhood innocence in the Deep South.",
+    "thumbnail": "https://books.google.com/books/content?id=PGR2AwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$15.45",
+    "previewLink": "https://books.google.com/books?id=PGR2AwAAQBAJ"
   },
   {
     "id": "book12",
-    "title": "Sample Book 12",
+    "title": "The Great Gatsby",
     "authors": [
-      "Dawn Duncan"
+      "F. Scott Fitzgerald"
     ],
-    "publisher": "Bullock PLC",
-    "description": "Realize model model be almost official air surface. Base popular smile represent each.\nSpeak should bag administration trouble.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$24.74",
-    "previewLink": "https://example.com/preview"
+    "publisher": "Scribner",
+    "description": "A critique of the American Dream through the lens of 1920s decadence.",
+    "thumbnail": "https://books.google.com/books/content?id=e6J5zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$14.67",
+    "previewLink": "https://books.google.com/books?id=e6J5zQEACAAJ"
   },
   {
     "id": "book13",
-    "title": "Sample Book 13",
+    "title": "The Catcher in the Rye",
     "authors": [
-      "Tony Olson"
+      "J.D. Salinger"
     ],
-    "publisher": "Reese Ltd",
-    "description": "Eat Mrs stage sound. Special affect image actually. Wife race environmental identify knowledge only.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$17.47",
-    "previewLink": "https://example.com/preview"
+    "publisher": "Little, Brown",
+    "description": "A novel about teenage rebellion and identity, told by Holden Caulfield.",
+    "thumbnail": "https://books.google.com/books/content?id=z7RZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$17.65",
+    "previewLink": "https://books.google.com/books?id=z7RZAAAAMAAJ"
   },
   {
     "id": "book14",
-    "title": "Sample Book 14",
+    "title": "To Kill a Mockingbird (Edition)",
     "authors": [
-      "Frank Dunn"
+      "Harper Lee"
     ],
-    "publisher": "Green-Martinez",
-    "description": "Early material kitchen along future pick. There manager trial player cause decision. Admit rule factor various wonder.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$29.70",
-    "previewLink": "https://example.com/preview"
+    "publisher": "HarperCollins",
+    "description": "A story of racial injustice and childhood innocence in the Deep South.",
+    "thumbnail": "https://books.google.com/books/content?id=PGR2AwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$15.45",
+    "previewLink": "https://books.google.com/books?id=PGR2AwAAQBAJ"
   },
   {
     "id": "book15",
-    "title": "Sample Book 15",
+    "title": "The Catcher in the Rye (Edition)",
     "authors": [
-      "Bradley Schneider"
+      "J.D. Salinger"
     ],
-    "publisher": "Wright Inc",
-    "description": "Leg future you vote. List return seem onto church old story.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$22.52",
-    "previewLink": "https://example.com/preview"
+    "publisher": "Little, Brown",
+    "description": "A novel about teenage rebellion and identity, told by Holden Caulfield.",
+    "thumbnail": "https://books.google.com/books/content?id=z7RZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$17.65",
+    "previewLink": "https://books.google.com/books?id=z7RZAAAAMAAJ"
   },
   {
     "id": "book16",
-    "title": "Sample Book 16",
+    "title": "The Catcher in the Rye (Edition) (Edition)",
     "authors": [
-      "Gregory Myers DDS"
+      "J.D. Salinger"
     ],
-    "publisher": "Lopez Inc",
-    "description": "Moment both house. Pretty stage reason order ago he quality tonight. Economy world help writer. Management that at trade wait since no.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$17.64",
-    "previewLink": "https://example.com/preview"
+    "publisher": "Little, Brown",
+    "description": "A novel about teenage rebellion and identity, told by Holden Caulfield.",
+    "thumbnail": "https://books.google.com/books/content?id=z7RZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$17.65",
+    "previewLink": "https://books.google.com/books?id=z7RZAAAAMAAJ"
   },
   {
     "id": "book17",
-    "title": "Sample Book 17",
+    "title": "1984 (Edition)",
     "authors": [
-      "Christopher Wright"
+      "George Orwell"
     ],
-    "publisher": "Nelson-Neal",
-    "description": "On describe book month. Statement much argue head fine reflect.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "publisher": "Houghton Mifflin Harcourt",
+    "description": "A dystopian novel set in a totalitarian society ruled by Big Brother.",
+    "thumbnail": "https://books.google.com/books/content?id=kotPYEqx7kMC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "price": "$12.02",
-    "previewLink": "https://example.com/preview"
+    "previewLink": "https://books.google.com/books?id=kotPYEqx7kMC"
   },
   {
     "id": "book18",
-    "title": "Sample Book 18",
+    "title": "Brave New World (Edition)",
     "authors": [
-      "Sandra Yu"
+      "Aldous Huxley"
     ],
-    "publisher": "Sanchez, Perez and Daniel",
-    "description": "Wonder around spring mouth might bag. Baby result but after. Entire former day season tree century natural himself.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$13.04",
-    "previewLink": "https://example.com/preview"
+    "publisher": "Harper Perennial",
+    "description": "A visionary dystopian novel about a future controlled by pleasure and conformity.",
+    "thumbnail": "https://books.google.com/books/content?id=ekC-MAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$15.12",
+    "previewLink": "https://books.google.com/books?id=ekC-MAEACAAJ"
   },
   {
     "id": "book19",
-    "title": "Sample Book 19",
+    "title": "To Kill a Mockingbird (Edition)",
     "authors": [
-      "Nicholas Jones"
+      "Harper Lee"
     ],
-    "publisher": "Riley, Parker and Flores",
-    "description": "Because success rate trouble maybe either form down. Population left animal eat concern. Space west station color view remember still.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$20.41",
-    "previewLink": "https://example.com/preview"
+    "publisher": "HarperCollins",
+    "description": "A story of racial injustice and childhood innocence in the Deep South.",
+    "thumbnail": "https://books.google.com/books/content?id=PGR2AwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$15.45",
+    "previewLink": "https://books.google.com/books?id=PGR2AwAAQBAJ"
   },
   {
     "id": "book20",
-    "title": "Sample Book 20",
+    "title": "The Great Gatsby (Edition)",
     "authors": [
-      "Hector Jones"
+      "F. Scott Fitzgerald"
     ],
-    "publisher": "Doyle, Davis and Hall",
-    "description": "Skin affect both artist. Ability always site simple.\nFact carry group task help.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$28.86",
-    "previewLink": "https://example.com/preview"
+    "publisher": "Scribner",
+    "description": "A critique of the American Dream through the lens of 1920s decadence.",
+    "thumbnail": "https://books.google.com/books/content?id=e6J5zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$14.67",
+    "previewLink": "https://books.google.com/books?id=e6J5zQEACAAJ"
   },
   {
     "id": "book21",
-    "title": "Sample Book 21",
+    "title": "The Catcher in the Rye (Edition)",
     "authors": [
-      "Alexis Stewart"
+      "J.D. Salinger"
     ],
-    "publisher": "Macias PLC",
-    "description": "Beautiful employee store marriage gas good. Argue part another certain key collection. Radio measure bring hot democratic we material.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$21.62",
-    "previewLink": "https://example.com/preview"
+    "publisher": "Little, Brown",
+    "description": "A novel about teenage rebellion and identity, told by Holden Caulfield.",
+    "thumbnail": "https://books.google.com/books/content?id=z7RZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$17.65",
+    "previewLink": "https://books.google.com/books?id=z7RZAAAAMAAJ"
   },
   {
     "id": "book22",
-    "title": "Sample Book 22",
+    "title": "To Kill a Mockingbird (Edition) (Edition)",
     "authors": [
-      "Amy Johnson"
+      "Harper Lee"
     ],
-    "publisher": "Thomas, Fields and Ramirez",
-    "description": "Rule live tough sit weight magazine. Work treatment rather sort series.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$12.58",
-    "previewLink": "https://example.com/preview"
+    "publisher": "HarperCollins",
+    "description": "A story of racial injustice and childhood innocence in the Deep South.",
+    "thumbnail": "https://books.google.com/books/content?id=PGR2AwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$15.45",
+    "previewLink": "https://books.google.com/books?id=PGR2AwAAQBAJ"
   },
   {
     "id": "book23",
-    "title": "Sample Book 23",
+    "title": "The Catcher in the Rye (Edition) (Edition)",
     "authors": [
-      "David Reid"
+      "J.D. Salinger"
     ],
-    "publisher": "Davis, Wagner and Boyer",
-    "description": "Address describe stock contain wide finish. Exactly hit range it film machine.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$22.82",
-    "previewLink": "https://example.com/preview"
+    "publisher": "Little, Brown",
+    "description": "A novel about teenage rebellion and identity, told by Holden Caulfield.",
+    "thumbnail": "https://books.google.com/books/content?id=z7RZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$17.65",
+    "previewLink": "https://books.google.com/books?id=z7RZAAAAMAAJ"
   },
   {
     "id": "book24",
-    "title": "Sample Book 24",
+    "title": "The Catcher in the Rye (Edition) (Edition) (Edition)",
     "authors": [
-      "Eric Chang"
+      "J.D. Salinger"
     ],
-    "publisher": "Coleman, Huffman and Lyons",
-    "description": "Base attention number commercial test. Past care modern ability he property throw career.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$19.27",
-    "previewLink": "https://example.com/preview"
+    "publisher": "Little, Brown",
+    "description": "A novel about teenage rebellion and identity, told by Holden Caulfield.",
+    "thumbnail": "https://books.google.com/books/content?id=z7RZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$17.65",
+    "previewLink": "https://books.google.com/books?id=z7RZAAAAMAAJ"
   },
   {
     "id": "book25",
-    "title": "Sample Book 25",
+    "title": "1984 (Edition) (Edition)",
     "authors": [
-      "Jennifer Brown"
+      "George Orwell"
     ],
-    "publisher": "George Group",
-    "description": "Loss member eight. Police save think job feeling. Among many nation morning church collection however.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$23.58",
-    "previewLink": "https://example.com/preview"
+    "publisher": "Houghton Mifflin Harcourt",
+    "description": "A dystopian novel set in a totalitarian society ruled by Big Brother.",
+    "thumbnail": "https://books.google.com/books/content?id=kotPYEqx7kMC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$12.02",
+    "previewLink": "https://books.google.com/books?id=kotPYEqx7kMC"
   },
   {
     "id": "book26",
-    "title": "Sample Book 26",
+    "title": "Brave New World (Edition) (Edition)",
     "authors": [
-      "Catherine Thompson"
+      "Aldous Huxley"
     ],
-    "publisher": "Wilson, Wilson and Hughes",
-    "description": "Operation lose hundred company hour bank. Pull onto hotel imagine discover put. Firm effort general particular.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$6.69",
-    "previewLink": "https://example.com/preview"
+    "publisher": "Harper Perennial",
+    "description": "A visionary dystopian novel about a future controlled by pleasure and conformity.",
+    "thumbnail": "https://books.google.com/books/content?id=ekC-MAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$15.12",
+    "previewLink": "https://books.google.com/books?id=ekC-MAEACAAJ"
   },
   {
     "id": "book27",
-    "title": "Sample Book 27",
+    "title": "To Kill a Mockingbird (Edition) (Edition)",
     "authors": [
-      "Mr. Todd Dickerson Jr."
+      "Harper Lee"
     ],
-    "publisher": "Smith-Stewart",
-    "description": "Difference seek shoulder simple rate outside generation. Usually watch race interview behavior those character.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$16.53",
-    "previewLink": "https://example.com/preview"
+    "publisher": "HarperCollins",
+    "description": "A story of racial injustice and childhood innocence in the Deep South.",
+    "thumbnail": "https://books.google.com/books/content?id=PGR2AwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$15.45",
+    "previewLink": "https://books.google.com/books?id=PGR2AwAAQBAJ"
   },
   {
     "id": "book28",
-    "title": "Sample Book 28",
+    "title": "The Great Gatsby (Edition) (Edition)",
     "authors": [
-      "Barbara Stuart"
+      "F. Scott Fitzgerald"
     ],
-    "publisher": "Skinner and Sons",
-    "description": "Allow fear never. Some stage station establish program.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$9.61",
-    "previewLink": "https://example.com/preview"
+    "publisher": "Scribner",
+    "description": "A critique of the American Dream through the lens of 1920s decadence.",
+    "thumbnail": "https://books.google.com/books/content?id=e6J5zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$14.67",
+    "previewLink": "https://books.google.com/books?id=e6J5zQEACAAJ"
   },
   {
     "id": "book29",
-    "title": "Sample Book 29",
+    "title": "The Catcher in the Rye (Edition) (Edition)",
     "authors": [
-      "Barbara Powell"
+      "J.D. Salinger"
     ],
-    "publisher": "Hoffman, Thornton and Grimes",
-    "description": "Military development recent time.\nAs world choose. Each program firm two could. Find remember feel in protect sport American.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$29.45",
-    "previewLink": "https://example.com/preview"
+    "publisher": "Little, Brown",
+    "description": "A novel about teenage rebellion and identity, told by Holden Caulfield.",
+    "thumbnail": "https://books.google.com/books/content?id=z7RZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$17.65",
+    "previewLink": "https://books.google.com/books?id=z7RZAAAAMAAJ"
   },
   {
     "id": "book30",
-    "title": "Sample Book 30",
+    "title": "To Kill a Mockingbird (Edition) (Edition) (Edition)",
     "authors": [
-      "Eric Tanner"
+      "Harper Lee"
     ],
-    "publisher": "Wise-Zhang",
-    "description": "Value government happen exactly once. Way significant study human own situation. Whether world another.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$24.45",
-    "previewLink": "https://example.com/preview"
+    "publisher": "HarperCollins",
+    "description": "A story of racial injustice and childhood innocence in the Deep South.",
+    "thumbnail": "https://books.google.com/books/content?id=PGR2AwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$15.45",
+    "previewLink": "https://books.google.com/books?id=PGR2AwAAQBAJ"
   },
   {
     "id": "book31",
-    "title": "Sample Book 31",
+    "title": "The Catcher in the Rye (Edition) (Edition) (Edition)",
     "authors": [
-      "Sarah Sanchez"
+      "J.D. Salinger"
     ],
-    "publisher": "Key-Rivera",
-    "description": "Ok leg scientist develop tree take project. Measure under factor any bank drive fund agreement.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$18.08",
-    "previewLink": "https://example.com/preview"
+    "publisher": "Little, Brown",
+    "description": "A novel about teenage rebellion and identity, told by Holden Caulfield.",
+    "thumbnail": "https://books.google.com/books/content?id=z7RZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$17.65",
+    "previewLink": "https://books.google.com/books?id=z7RZAAAAMAAJ"
   },
   {
     "id": "book32",
-    "title": "Sample Book 32",
+    "title": "The Catcher in the Rye (Edition) (Edition) (Edition) (Edition)",
     "authors": [
-      "Stephen Bruce"
+      "J.D. Salinger"
     ],
-    "publisher": "Rivera-Gonzalez",
-    "description": "Success food term clear ten boy pressure. Within writer remain.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$22.84",
-    "previewLink": "https://example.com/preview"
+    "publisher": "Little, Brown",
+    "description": "A novel about teenage rebellion and identity, told by Holden Caulfield.",
+    "thumbnail": "https://books.google.com/books/content?id=z7RZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$17.65",
+    "previewLink": "https://books.google.com/books?id=z7RZAAAAMAAJ"
   },
   {
     "id": "book33",
-    "title": "Sample Book 33",
+    "title": "1984 (Edition) (Edition) (Edition)",
     "authors": [
-      "Jose Ross"
+      "George Orwell"
     ],
-    "publisher": "Williams Inc",
-    "description": "General long investment fund think current. Choice letter reveal point house sign.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$12.87",
-    "previewLink": "https://example.com/preview"
+    "publisher": "Houghton Mifflin Harcourt",
+    "description": "A dystopian novel set in a totalitarian society ruled by Big Brother.",
+    "thumbnail": "https://books.google.com/books/content?id=kotPYEqx7kMC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$12.02",
+    "previewLink": "https://books.google.com/books?id=kotPYEqx7kMC"
   },
   {
     "id": "book34",
-    "title": "Sample Book 34",
+    "title": "Brave New World (Edition) (Edition) (Edition)",
     "authors": [
-      "Richard Brown"
+      "Aldous Huxley"
     ],
-    "publisher": "Stark, Mckee and Davis",
-    "description": "Current huge away fact range. Entire quite above knowledge.\nRecently letter total option. Cup economic would argue toward look.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$17.48",
-    "previewLink": "https://example.com/preview"
+    "publisher": "Harper Perennial",
+    "description": "A visionary dystopian novel about a future controlled by pleasure and conformity.",
+    "thumbnail": "https://books.google.com/books/content?id=ekC-MAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$15.12",
+    "previewLink": "https://books.google.com/books?id=ekC-MAEACAAJ"
   },
   {
     "id": "book35",
-    "title": "Sample Book 35",
+    "title": "To Kill a Mockingbird (Edition) (Edition) (Edition)",
     "authors": [
-      "Scott Garcia"
+      "Harper Lee"
     ],
-    "publisher": "Leblanc Group",
-    "description": "Information kid in game. Another this compare dark here street study development.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$11.78",
-    "previewLink": "https://example.com/preview"
+    "publisher": "HarperCollins",
+    "description": "A story of racial injustice and childhood innocence in the Deep South.",
+    "thumbnail": "https://books.google.com/books/content?id=PGR2AwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$15.45",
+    "previewLink": "https://books.google.com/books?id=PGR2AwAAQBAJ"
   },
   {
     "id": "book36",
-    "title": "Sample Book 36",
+    "title": "The Great Gatsby (Edition) (Edition) (Edition)",
     "authors": [
-      "Alison Torres"
+      "F. Scott Fitzgerald"
     ],
-    "publisher": "Robinson Ltd",
-    "description": "Position imagine catch people. Wear enter week fight big. Represent with brother house find point avoid always.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$17.61",
-    "previewLink": "https://example.com/preview"
+    "publisher": "Scribner",
+    "description": "A critique of the American Dream through the lens of 1920s decadence.",
+    "thumbnail": "https://books.google.com/books/content?id=e6J5zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$14.67",
+    "previewLink": "https://books.google.com/books?id=e6J5zQEACAAJ"
   },
   {
     "id": "book37",
-    "title": "Sample Book 37",
+    "title": "The Catcher in the Rye (Edition) (Edition) (Edition)",
     "authors": [
-      "Whitney Young"
+      "J.D. Salinger"
     ],
-    "publisher": "Fowler-Foster",
-    "description": "Executive husband skill body example. Lose organization full radio seem.\nAgo almost sound and. Why even decision. Some garden toward right.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$9.68",
-    "previewLink": "https://example.com/preview"
+    "publisher": "Little, Brown",
+    "description": "A novel about teenage rebellion and identity, told by Holden Caulfield.",
+    "thumbnail": "https://books.google.com/books/content?id=z7RZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$17.65",
+    "previewLink": "https://books.google.com/books?id=z7RZAAAAMAAJ"
   },
   {
     "id": "book38",
-    "title": "Sample Book 38",
+    "title": "To Kill a Mockingbird (Edition) (Edition) (Edition) (Edition)",
     "authors": [
-      "Suzanne Stewart"
+      "Harper Lee"
     ],
-    "publisher": "Flynn, Curtis and Taylor",
-    "description": "Attack husband between issue force eat specific reach. Opportunity hair size hope would apply standard.\nCapital fish member.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$14.30",
-    "previewLink": "https://example.com/preview"
+    "publisher": "HarperCollins",
+    "description": "A story of racial injustice and childhood innocence in the Deep South.",
+    "thumbnail": "https://books.google.com/books/content?id=PGR2AwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$15.45",
+    "previewLink": "https://books.google.com/books?id=PGR2AwAAQBAJ"
   },
   {
     "id": "book39",
-    "title": "Sample Book 39",
+    "title": "The Catcher in the Rye (Edition) (Edition) (Edition) (Edition)",
     "authors": [
-      "Allen Jones"
+      "J.D. Salinger"
     ],
-    "publisher": "Mccann Inc",
-    "description": "Value evening themselves available. Admit prevent feel month happen.\nWorker card ever along eat. Most benefit government now almost yes last.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$12.48",
-    "previewLink": "https://example.com/preview"
+    "publisher": "Little, Brown",
+    "description": "A novel about teenage rebellion and identity, told by Holden Caulfield.",
+    "thumbnail": "https://books.google.com/books/content?id=z7RZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$17.65",
+    "previewLink": "https://books.google.com/books?id=z7RZAAAAMAAJ"
   },
   {
     "id": "book40",
-    "title": "Sample Book 40",
+    "title": "The Catcher in the Rye (Edition) (Edition) (Edition) (Edition) (Edition)",
     "authors": [
-      "Jennifer Rush"
+      "J.D. Salinger"
     ],
-    "publisher": "Barton-Macdonald",
-    "description": "Attack house expert paper nice.\nTask water give. Along room simple.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$29.10",
-    "previewLink": "https://example.com/preview"
+    "publisher": "Little, Brown",
+    "description": "A novel about teenage rebellion and identity, told by Holden Caulfield.",
+    "thumbnail": "https://books.google.com/books/content?id=z7RZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$17.65",
+    "previewLink": "https://books.google.com/books?id=z7RZAAAAMAAJ"
   },
   {
     "id": "book41",
-    "title": "Sample Book 41",
+    "title": "1984 (Edition) (Edition) (Edition) (Edition)",
     "authors": [
-      "Stephanie Flores"
+      "George Orwell"
     ],
-    "publisher": "Hampton, Peterson and Hawkins",
-    "description": "Base onto there surface management. Wide movie on any once director.\nMeet each oil low become beat.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$17.31",
-    "previewLink": "https://example.com/preview"
+    "publisher": "Houghton Mifflin Harcourt",
+    "description": "A dystopian novel set in a totalitarian society ruled by Big Brother.",
+    "thumbnail": "https://books.google.com/books/content?id=kotPYEqx7kMC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$12.02",
+    "previewLink": "https://books.google.com/books?id=kotPYEqx7kMC"
   },
   {
     "id": "book42",
-    "title": "Sample Book 42",
+    "title": "Brave New World (Edition) (Edition) (Edition) (Edition)",
     "authors": [
-      "Mr. Andrew Mccarthy PhD"
+      "Aldous Huxley"
     ],
-    "publisher": "Torres, Galloway and Harding",
-    "description": "Individual most present next machine current where. Season station ground shoulder country eye officer.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$25.92",
-    "previewLink": "https://example.com/preview"
+    "publisher": "Harper Perennial",
+    "description": "A visionary dystopian novel about a future controlled by pleasure and conformity.",
+    "thumbnail": "https://books.google.com/books/content?id=ekC-MAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$15.12",
+    "previewLink": "https://books.google.com/books?id=ekC-MAEACAAJ"
   },
   {
     "id": "book43",
-    "title": "Sample Book 43",
+    "title": "To Kill a Mockingbird (Edition) (Edition) (Edition) (Edition)",
     "authors": [
-      "Kelly Vaughn"
+      "Harper Lee"
     ],
-    "publisher": "Schroeder Inc",
-    "description": "Establish protect shake city style production. Glass management time source learn image. Finally food live.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$11.47",
-    "previewLink": "https://example.com/preview"
+    "publisher": "HarperCollins",
+    "description": "A story of racial injustice and childhood innocence in the Deep South.",
+    "thumbnail": "https://books.google.com/books/content?id=PGR2AwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$15.45",
+    "previewLink": "https://books.google.com/books?id=PGR2AwAAQBAJ"
   },
   {
     "id": "book44",
-    "title": "Sample Book 44",
+    "title": "The Great Gatsby (Edition) (Edition) (Edition) (Edition)",
     "authors": [
-      "John Cole"
+      "F. Scott Fitzgerald"
     ],
-    "publisher": "Collins, Peters and Gibson",
-    "description": "Federal fish maintain billion point. Short husband sign wind.\nFirm during which issue sure today share.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$9.68",
-    "previewLink": "https://example.com/preview"
+    "publisher": "Scribner",
+    "description": "A critique of the American Dream through the lens of 1920s decadence.",
+    "thumbnail": "https://books.google.com/books/content?id=e6J5zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$14.67",
+    "previewLink": "https://books.google.com/books?id=e6J5zQEACAAJ"
   },
   {
     "id": "book45",
-    "title": "Sample Book 45",
+    "title": "The Catcher in the Rye (Edition) (Edition) (Edition) (Edition)",
     "authors": [
-      "Tammy Greene"
+      "J.D. Salinger"
     ],
-    "publisher": "Reed, Fowler and Mann",
-    "description": "Newspaper until voice act family people could. Anything represent sea at. Detail rich push. Strong say machine interview yet.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$27.98",
-    "previewLink": "https://example.com/preview"
+    "publisher": "Little, Brown",
+    "description": "A novel about teenage rebellion and identity, told by Holden Caulfield.",
+    "thumbnail": "https://books.google.com/books/content?id=z7RZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$17.65",
+    "previewLink": "https://books.google.com/books?id=z7RZAAAAMAAJ"
   },
   {
     "id": "book46",
-    "title": "Sample Book 46",
+    "title": "To Kill a Mockingbird (Edition) (Edition) (Edition) (Edition) (Edition)",
     "authors": [
-      "Randy Mendoza"
+      "Harper Lee"
     ],
-    "publisher": "Wilson-Rhodes",
-    "description": "Single when effort. True service car. However attorney hospital teacher answer.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$16.24",
-    "previewLink": "https://example.com/preview"
+    "publisher": "HarperCollins",
+    "description": "A story of racial injustice and childhood innocence in the Deep South.",
+    "thumbnail": "https://books.google.com/books/content?id=PGR2AwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$15.45",
+    "previewLink": "https://books.google.com/books?id=PGR2AwAAQBAJ"
   },
   {
     "id": "book47",
-    "title": "Sample Book 47",
+    "title": "The Catcher in the Rye (Edition) (Edition) (Edition) (Edition) (Edition)",
     "authors": [
-      "Michael Collins"
+      "J.D. Salinger"
     ],
-    "publisher": "Chase LLC",
-    "description": "Step discover apply today. Sell official customer site lay popular own. After east kid inside while would.\nBehavior high culture night face.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$21.39",
-    "previewLink": "https://example.com/preview"
+    "publisher": "Little, Brown",
+    "description": "A novel about teenage rebellion and identity, told by Holden Caulfield.",
+    "thumbnail": "https://books.google.com/books/content?id=z7RZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$17.65",
+    "previewLink": "https://books.google.com/books?id=z7RZAAAAMAAJ"
   },
   {
     "id": "book48",
-    "title": "Sample Book 48",
+    "title": "The Catcher in the Rye (Edition) (Edition) (Edition) (Edition) (Edition) (Edition)",
     "authors": [
-      "Brian Phillips"
+      "J.D. Salinger"
     ],
-    "publisher": "Whitney-Smith",
-    "description": "Growth whatever TV act heart research your. Place he door head no various card. General no expect.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$29.85",
-    "previewLink": "https://example.com/preview"
+    "publisher": "Little, Brown",
+    "description": "A novel about teenage rebellion and identity, told by Holden Caulfield.",
+    "thumbnail": "https://books.google.com/books/content?id=z7RZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$17.65",
+    "previewLink": "https://books.google.com/books?id=z7RZAAAAMAAJ"
   },
   {
     "id": "book49",
-    "title": "Sample Book 49",
+    "title": "1984 (Edition) (Edition) (Edition) (Edition) (Edition)",
     "authors": [
-      "Michael Johnson"
+      "George Orwell"
     ],
-    "publisher": "Butler, Howell and Wood",
-    "description": "Year wife out force turn couple too. Material account often choice.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$7.88",
-    "previewLink": "https://example.com/preview"
+    "publisher": "Houghton Mifflin Harcourt",
+    "description": "A dystopian novel set in a totalitarian society ruled by Big Brother.",
+    "thumbnail": "https://books.google.com/books/content?id=kotPYEqx7kMC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$12.02",
+    "previewLink": "https://books.google.com/books?id=kotPYEqx7kMC"
   },
   {
     "id": "book50",
-    "title": "Sample Book 50",
+    "title": "Brave New World (Edition) (Edition) (Edition) (Edition) (Edition)",
     "authors": [
-      "Crystal Ortiz"
+      "Aldous Huxley"
     ],
-    "publisher": "Walker-Barrett",
-    "description": "Middle middle particular it this. Indicate brother program. Top nearly course suddenly since us. Garden seek agree.",
-    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
-    "price": "$7.53",
-    "previewLink": "https://example.com/preview"
+    "publisher": "Harper Perennial",
+    "description": "A visionary dystopian novel about a future controlled by pleasure and conformity.",
+    "thumbnail": "https://books.google.com/books/content?id=ekC-MAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$15.12",
+    "previewLink": "https://books.google.com/books?id=ekC-MAEACAAJ"
   }
 ]
