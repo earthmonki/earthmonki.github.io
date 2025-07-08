@@ -1,0 +1,610 @@
+[
+  {
+    "id": "book1",
+    "title": "Scythe",
+    "authors": [
+      "Neal Shusterman"
+    ],
+    "publisher": "Simon & Schuster",
+    "description": "In a world where death has been conquered, Scythes are the only ones who can end life\u2014and they are commanded to do so to keep the population under control.",
+    "thumbnail": "https://books.google.com/books/content?id=RM1DDgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$10.99",
+    "previewLink": "https://books.google.com/books?id=RM1DDgAAQBAJ"
+  },
+  {
+    "id": "book2",
+    "title": "Thunderhead",
+    "authors": [
+      "Neal Shusterman"
+    ],
+    "publisher": "Simon & Schuster",
+    "description": "The Thunderhead cannot interfere in the affairs of the Scythedom. All it can do is observe\u2014it does not like what it sees.",
+    "thumbnail": "https://books.google.com/books/content?id=LY8rDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$11.99",
+    "previewLink": "https://books.google.com/books?id=LY8rDwAAQBAJ"
+  },
+  {
+    "id": "book3",
+    "title": "The Toll",
+    "authors": [
+      "Neal Shusterman"
+    ],
+    "publisher": "Simon & Schuster",
+    "description": "In the highly anticipated finale to the Arc of a Scythe trilogy, secrets are revealed and the fate of humanity hangs in the balance.",
+    "thumbnail": "https://books.google.com/books/content?id=rq2pDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$12.99",
+    "previewLink": "https://books.google.com/books?id=rq2pDwAAQBAJ"
+  },
+  {
+    "id": "book4",
+    "title": "The Adventure Zone: Here There Be Gerblins",
+    "authors": [
+      "Clint McElroy",
+      "Griffin McElroy",
+      "Justin McElroy",
+      "Travis McElroy",
+      "Carey Pietsch"
+    ],
+    "publisher": "First Second",
+    "description": "Based on the wildly popular Dungeons & Dragons podcast, this graphic novel brings the McElroys' hilarity to the page.",
+    "thumbnail": "https://books.google.com/books/content?id=rF1PDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$14.99",
+    "previewLink": "https://books.google.com/books?id=rF1PDwAAQBAJ"
+  },
+  {
+    "id": "book5",
+    "title": "The Adventure Zone: Murder on the Rockport Limited!",
+    "authors": [
+      "Clint McElroy",
+      "Griffin McElroy",
+      "Justin McElroy",
+      "Travis McElroy",
+      "Carey Pietsch"
+    ],
+    "publisher": "First Second",
+    "description": "The second graphic novel from The Adventure Zone series, full of murder, mystery, and laughs aboard a magical train.",
+    "thumbnail": "https://books.google.com/books/content?id=QtqFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "price": "$15.99",
+    "previewLink": "https://books.google.com/books?id=QtqFDwAAQBAJ"
+  },
+  {
+    "id": "book6",
+    "title": "Sample Book 6",
+    "authors": [
+      "Diane Bonilla"
+    ],
+    "publisher": "Brown-Turner",
+    "description": "Kid pattern share suggest. Energy success glass.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$22.57",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book7",
+    "title": "Sample Book 7",
+    "authors": [
+      "Robert Atkins"
+    ],
+    "publisher": "Morgan, Shepherd and Smith",
+    "description": "Show country yet program. Reflect off draw world east.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$12.15",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book8",
+    "title": "Sample Book 8",
+    "authors": [
+      "Timothy Robertson"
+    ],
+    "publisher": "Reed Ltd",
+    "description": "Effort real door recent work statement order. Nothing attorney girl very break seem right analysis.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$27.03",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book9",
+    "title": "Sample Book 9",
+    "authors": [
+      "Adriana Novak"
+    ],
+    "publisher": "Parsons-Hanson",
+    "description": "Anyone last second east. Into without return seven mean score.\nItem include minute soon might send. Perhaps rather side push very bar degree.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$12.13",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book10",
+    "title": "Sample Book 10",
+    "authors": [
+      "Brian Garrett"
+    ],
+    "publisher": "Davis Ltd",
+    "description": "Specific vote ability require page student. Career that share soldier push. Player art enter relationship.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$9.08",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book11",
+    "title": "Sample Book 11",
+    "authors": [
+      "Juan Fitzpatrick"
+    ],
+    "publisher": "Hopkins-Wright",
+    "description": "Similar college top two very world.\nPossible exist long Congress off medical. Reduce thought of discover.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$13.67",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book12",
+    "title": "Sample Book 12",
+    "authors": [
+      "Dawn Duncan"
+    ],
+    "publisher": "Bullock PLC",
+    "description": "Realize model model be almost official air surface. Base popular smile represent each.\nSpeak should bag administration trouble.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$24.74",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book13",
+    "title": "Sample Book 13",
+    "authors": [
+      "Tony Olson"
+    ],
+    "publisher": "Reese Ltd",
+    "description": "Eat Mrs stage sound. Special affect image actually. Wife race environmental identify knowledge only.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$17.47",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book14",
+    "title": "Sample Book 14",
+    "authors": [
+      "Frank Dunn"
+    ],
+    "publisher": "Green-Martinez",
+    "description": "Early material kitchen along future pick. There manager trial player cause decision. Admit rule factor various wonder.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$29.70",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book15",
+    "title": "Sample Book 15",
+    "authors": [
+      "Bradley Schneider"
+    ],
+    "publisher": "Wright Inc",
+    "description": "Leg future you vote. List return seem onto church old story.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$22.52",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book16",
+    "title": "Sample Book 16",
+    "authors": [
+      "Gregory Myers DDS"
+    ],
+    "publisher": "Lopez Inc",
+    "description": "Moment both house. Pretty stage reason order ago he quality tonight. Economy world help writer. Management that at trade wait since no.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$17.64",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book17",
+    "title": "Sample Book 17",
+    "authors": [
+      "Christopher Wright"
+    ],
+    "publisher": "Nelson-Neal",
+    "description": "On describe book month. Statement much argue head fine reflect.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$12.02",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book18",
+    "title": "Sample Book 18",
+    "authors": [
+      "Sandra Yu"
+    ],
+    "publisher": "Sanchez, Perez and Daniel",
+    "description": "Wonder around spring mouth might bag. Baby result but after. Entire former day season tree century natural himself.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$13.04",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book19",
+    "title": "Sample Book 19",
+    "authors": [
+      "Nicholas Jones"
+    ],
+    "publisher": "Riley, Parker and Flores",
+    "description": "Because success rate trouble maybe either form down. Population left animal eat concern. Space west station color view remember still.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$20.41",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book20",
+    "title": "Sample Book 20",
+    "authors": [
+      "Hector Jones"
+    ],
+    "publisher": "Doyle, Davis and Hall",
+    "description": "Skin affect both artist. Ability always site simple.\nFact carry group task help.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$28.86",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book21",
+    "title": "Sample Book 21",
+    "authors": [
+      "Alexis Stewart"
+    ],
+    "publisher": "Macias PLC",
+    "description": "Beautiful employee store marriage gas good. Argue part another certain key collection. Radio measure bring hot democratic we material.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$21.62",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book22",
+    "title": "Sample Book 22",
+    "authors": [
+      "Amy Johnson"
+    ],
+    "publisher": "Thomas, Fields and Ramirez",
+    "description": "Rule live tough sit weight magazine. Work treatment rather sort series.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$12.58",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book23",
+    "title": "Sample Book 23",
+    "authors": [
+      "David Reid"
+    ],
+    "publisher": "Davis, Wagner and Boyer",
+    "description": "Address describe stock contain wide finish. Exactly hit range it film machine.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$22.82",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book24",
+    "title": "Sample Book 24",
+    "authors": [
+      "Eric Chang"
+    ],
+    "publisher": "Coleman, Huffman and Lyons",
+    "description": "Base attention number commercial test. Past care modern ability he property throw career.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$19.27",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book25",
+    "title": "Sample Book 25",
+    "authors": [
+      "Jennifer Brown"
+    ],
+    "publisher": "George Group",
+    "description": "Loss member eight. Police save think job feeling. Among many nation morning church collection however.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$23.58",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book26",
+    "title": "Sample Book 26",
+    "authors": [
+      "Catherine Thompson"
+    ],
+    "publisher": "Wilson, Wilson and Hughes",
+    "description": "Operation lose hundred company hour bank. Pull onto hotel imagine discover put. Firm effort general particular.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$6.69",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book27",
+    "title": "Sample Book 27",
+    "authors": [
+      "Mr. Todd Dickerson Jr."
+    ],
+    "publisher": "Smith-Stewart",
+    "description": "Difference seek shoulder simple rate outside generation. Usually watch race interview behavior those character.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$16.53",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book28",
+    "title": "Sample Book 28",
+    "authors": [
+      "Barbara Stuart"
+    ],
+    "publisher": "Skinner and Sons",
+    "description": "Allow fear never. Some stage station establish program.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$9.61",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book29",
+    "title": "Sample Book 29",
+    "authors": [
+      "Barbara Powell"
+    ],
+    "publisher": "Hoffman, Thornton and Grimes",
+    "description": "Military development recent time.\nAs world choose. Each program firm two could. Find remember feel in protect sport American.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$29.45",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book30",
+    "title": "Sample Book 30",
+    "authors": [
+      "Eric Tanner"
+    ],
+    "publisher": "Wise-Zhang",
+    "description": "Value government happen exactly once. Way significant study human own situation. Whether world another.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$24.45",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book31",
+    "title": "Sample Book 31",
+    "authors": [
+      "Sarah Sanchez"
+    ],
+    "publisher": "Key-Rivera",
+    "description": "Ok leg scientist develop tree take project. Measure under factor any bank drive fund agreement.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$18.08",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book32",
+    "title": "Sample Book 32",
+    "authors": [
+      "Stephen Bruce"
+    ],
+    "publisher": "Rivera-Gonzalez",
+    "description": "Success food term clear ten boy pressure. Within writer remain.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$22.84",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book33",
+    "title": "Sample Book 33",
+    "authors": [
+      "Jose Ross"
+    ],
+    "publisher": "Williams Inc",
+    "description": "General long investment fund think current. Choice letter reveal point house sign.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$12.87",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book34",
+    "title": "Sample Book 34",
+    "authors": [
+      "Richard Brown"
+    ],
+    "publisher": "Stark, Mckee and Davis",
+    "description": "Current huge away fact range. Entire quite above knowledge.\nRecently letter total option. Cup economic would argue toward look.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$17.48",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book35",
+    "title": "Sample Book 35",
+    "authors": [
+      "Scott Garcia"
+    ],
+    "publisher": "Leblanc Group",
+    "description": "Information kid in game. Another this compare dark here street study development.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$11.78",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book36",
+    "title": "Sample Book 36",
+    "authors": [
+      "Alison Torres"
+    ],
+    "publisher": "Robinson Ltd",
+    "description": "Position imagine catch people. Wear enter week fight big. Represent with brother house find point avoid always.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$17.61",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book37",
+    "title": "Sample Book 37",
+    "authors": [
+      "Whitney Young"
+    ],
+    "publisher": "Fowler-Foster",
+    "description": "Executive husband skill body example. Lose organization full radio seem.\nAgo almost sound and. Why even decision. Some garden toward right.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$9.68",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book38",
+    "title": "Sample Book 38",
+    "authors": [
+      "Suzanne Stewart"
+    ],
+    "publisher": "Flynn, Curtis and Taylor",
+    "description": "Attack husband between issue force eat specific reach. Opportunity hair size hope would apply standard.\nCapital fish member.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$14.30",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book39",
+    "title": "Sample Book 39",
+    "authors": [
+      "Allen Jones"
+    ],
+    "publisher": "Mccann Inc",
+    "description": "Value evening themselves available. Admit prevent feel month happen.\nWorker card ever along eat. Most benefit government now almost yes last.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$12.48",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book40",
+    "title": "Sample Book 40",
+    "authors": [
+      "Jennifer Rush"
+    ],
+    "publisher": "Barton-Macdonald",
+    "description": "Attack house expert paper nice.\nTask water give. Along room simple.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$29.10",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book41",
+    "title": "Sample Book 41",
+    "authors": [
+      "Stephanie Flores"
+    ],
+    "publisher": "Hampton, Peterson and Hawkins",
+    "description": "Base onto there surface management. Wide movie on any once director.\nMeet each oil low become beat.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$17.31",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book42",
+    "title": "Sample Book 42",
+    "authors": [
+      "Mr. Andrew Mccarthy PhD"
+    ],
+    "publisher": "Torres, Galloway and Harding",
+    "description": "Individual most present next machine current where. Season station ground shoulder country eye officer.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$25.92",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book43",
+    "title": "Sample Book 43",
+    "authors": [
+      "Kelly Vaughn"
+    ],
+    "publisher": "Schroeder Inc",
+    "description": "Establish protect shake city style production. Glass management time source learn image. Finally food live.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$11.47",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book44",
+    "title": "Sample Book 44",
+    "authors": [
+      "John Cole"
+    ],
+    "publisher": "Collins, Peters and Gibson",
+    "description": "Federal fish maintain billion point. Short husband sign wind.\nFirm during which issue sure today share.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$9.68",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book45",
+    "title": "Sample Book 45",
+    "authors": [
+      "Tammy Greene"
+    ],
+    "publisher": "Reed, Fowler and Mann",
+    "description": "Newspaper until voice act family people could. Anything represent sea at. Detail rich push. Strong say machine interview yet.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$27.98",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book46",
+    "title": "Sample Book 46",
+    "authors": [
+      "Randy Mendoza"
+    ],
+    "publisher": "Wilson-Rhodes",
+    "description": "Single when effort. True service car. However attorney hospital teacher answer.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$16.24",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book47",
+    "title": "Sample Book 47",
+    "authors": [
+      "Michael Collins"
+    ],
+    "publisher": "Chase LLC",
+    "description": "Step discover apply today. Sell official customer site lay popular own. After east kid inside while would.\nBehavior high culture night face.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$21.39",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book48",
+    "title": "Sample Book 48",
+    "authors": [
+      "Brian Phillips"
+    ],
+    "publisher": "Whitney-Smith",
+    "description": "Growth whatever TV act heart research your. Place he door head no various card. General no expect.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$29.85",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book49",
+    "title": "Sample Book 49",
+    "authors": [
+      "Michael Johnson"
+    ],
+    "publisher": "Butler, Howell and Wood",
+    "description": "Year wife out force turn couple too. Material account often choice.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$7.88",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book50",
+    "title": "Sample Book 50",
+    "authors": [
+      "Crystal Ortiz"
+    ],
+    "publisher": "Walker-Barrett",
+    "description": "Middle middle particular it this. Indicate brother program. Top nearly course suddenly since us. Garden seek agree.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$7.53",
+    "previewLink": "https://example.com/preview"
+  }
+]
