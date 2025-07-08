@@ -1,0 +1,602 @@
+[
+  {
+    "id": "book1",
+    "title": "Research administration card",
+    "authors": [
+      "Sarah Lopez"
+    ],
+    "publisher": "Garcia Inc",
+    "description": "Tree present fast sometimes style crime spend its. Want occur machine sound.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$14.69",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book2",
+    "title": "Believe arrive identify top",
+    "authors": [
+      "Jacqueline Johnson"
+    ],
+    "publisher": "Ramirez, Martinez and Webb",
+    "description": "Election determine forget study. Black strategy energy Republican trade interview reality. Democratic ok out individual get force.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$16.68",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book3",
+    "title": "Else building",
+    "authors": [
+      "Susan Solomon"
+    ],
+    "publisher": "Smith Group",
+    "description": "Hit defense real office. Result open upon among fire. Local answer realize account best.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$7.19",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book4",
+    "title": "Single data challenge notice",
+    "authors": [
+      "Christopher Wilson"
+    ],
+    "publisher": "Ellis-Hurst",
+    "description": "Story two prove little chair coach. Professional last federal. Mr sign drive garden line.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$23.03",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book5",
+    "title": "Key interest least yeah",
+    "authors": [
+      "Kimberly Avery"
+    ],
+    "publisher": "Davis-Martin",
+    "description": "Rule back so matter interest audience go age. Lawyer will discussion happen campaign should.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$7.21",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book6",
+    "title": "Spring pressure wrong",
+    "authors": [
+      "Nancy Garcia"
+    ],
+    "publisher": "Bailey, Fuller and Miller",
+    "description": "Specific large reason also forget.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$7.14",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book7",
+    "title": "Relationship describe country",
+    "authors": [
+      "Brian Carson"
+    ],
+    "publisher": "Allen, Guerrero and Powell",
+    "description": "Cold air them.\nArt available stage might individual. Should deal trouble apply discover season area sit.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$8.03",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book8",
+    "title": "Bring move",
+    "authors": [
+      "Karen Stewart"
+    ],
+    "publisher": "Mejia-Blair",
+    "description": "Big north notice kid she discuss beyond. Whose perhaps all along.\nDrive end share international. Production style agency.\nMoney level model.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$16.10",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book9",
+    "title": "Size feeling reality",
+    "authors": [
+      "Alexis Banks"
+    ],
+    "publisher": "Walker Ltd",
+    "description": "Push money box success series magazine. Begin out score final beyond.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$25.42",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book10",
+    "title": "All improve figure there forward",
+    "authors": [
+      "David Hall"
+    ],
+    "publisher": "Wise PLC",
+    "description": "Mean soon consider control. Win case protect sea. Management simple doctor loss. Economic above industry her laugh serve.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$21.30",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book11",
+    "title": "Game he today whatever",
+    "authors": [
+      "Sean Weaver"
+    ],
+    "publisher": "Oliver Inc",
+    "description": "Future draw others. Book industry debate reason teacher travel.\nMachine condition general green own. Exactly quality strong safe important and name.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$21.19",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book12",
+    "title": "Gun save current",
+    "authors": [
+      "Mary Mclaughlin"
+    ],
+    "publisher": "Haney, Wise and Nguyen",
+    "description": "Box hand work their budget hear. Practice conference exist particular environmental fly.\nLevel any born successful. Old lawyer kitchen offer.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$14.37",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book13",
+    "title": "Bar address suggest",
+    "authors": [
+      "Chelsea Jacobs"
+    ],
+    "publisher": "Allen-Rodriguez",
+    "description": "Tree four everybody almost born happen than. Gas charge drug. Result whom professor.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$10.83",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book14",
+    "title": "Material floor chance question inside",
+    "authors": [
+      "Scott Banks"
+    ],
+    "publisher": "Davenport PLC",
+    "description": "Itself fill their check nor ready knowledge. Quickly father play. Light finish seem someone.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$28.66",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book15",
+    "title": "Change herself",
+    "authors": [
+      "Sharon Oneill"
+    ],
+    "publisher": "Moore-Tran",
+    "description": "Couple research certainly appear cut focus. Last trip administration his front official which. Whole always month manager present line note.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$14.69",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book16",
+    "title": "Course certainly strategy",
+    "authors": [
+      "Jessica Strong"
+    ],
+    "publisher": "Wilson Group",
+    "description": "Scientist note product easy on world. Set than institution provide.\nSkin various seek which opportunity loss Mr season. Material charge behavior.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$9.67",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book17",
+    "title": "Result whom",
+    "authors": [
+      "Justin Scott"
+    ],
+    "publisher": "Smith PLC",
+    "description": "This song north doctor smile how.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$18.33",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book18",
+    "title": "Heavy sing phone",
+    "authors": [
+      "Gabriel Duncan"
+    ],
+    "publisher": "Davis-Santos",
+    "description": "Option create he everything international no everything. Forget necessary direction player who how figure.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$11.12",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book19",
+    "title": "Might seek gas",
+    "authors": [
+      "Jesus Thompson"
+    ],
+    "publisher": "Walker-Smith",
+    "description": "Several impact design wind computer cup fly. Card business ahead air rather card glass. Material seven dream material young.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$8.05",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book20",
+    "title": "Teacher similar",
+    "authors": [
+      "Thomas Watson"
+    ],
+    "publisher": "Ross-Holland",
+    "description": "Democrat rich work fear. Good such can challenge owner year. Short your individual south become theory side.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$26.22",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book21",
+    "title": "Although particularly friend western audience",
+    "authors": [
+      "Jeremy Taylor"
+    ],
+    "publisher": "Kim-Miller",
+    "description": "Than discover treatment court shake. Nearly determine how bar. Size however industry international house clearly include able.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$14.58",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book22",
+    "title": "Become chance national",
+    "authors": [
+      "Katherine Knapp"
+    ],
+    "publisher": "Lee PLC",
+    "description": "Effort prevent believe suddenly. Whom develop will what American need indeed. Explain lose paper leave then word.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$22.71",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book23",
+    "title": "Special form",
+    "authors": [
+      "Emily Jones"
+    ],
+    "publisher": "Garza, Young and Marsh",
+    "description": "Us family speech. Consider own space price late like history. Until thing low animal.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$28.57",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book24",
+    "title": "Blue walk",
+    "authors": [
+      "Stephen Brown"
+    ],
+    "publisher": "Arias-York",
+    "description": "Again sometimes realize. Policy news term watch defense. Happen detail also why join.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$17.43",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book25",
+    "title": "Hard pick out",
+    "authors": [
+      "Yolanda Davis"
+    ],
+    "publisher": "White Ltd",
+    "description": "Power develop you year hotel there suffer. Data across physical specific summer bad agreement money.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$6.77",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book26",
+    "title": "Enjoy thank play school",
+    "authors": [
+      "Matthew Jennings"
+    ],
+    "publisher": "Arnold Ltd",
+    "description": "Inside trade despite effect treat financial. Safe along appear explain necessary.\nTown cold somebody four drive body more. My win close art.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$16.76",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book27",
+    "title": "More another quite",
+    "authors": [
+      "Michelle Hayes"
+    ],
+    "publisher": "Foster Group",
+    "description": "Republican suddenly inside realize ever. My coach early great.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$24.20",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book28",
+    "title": "Learn glass sense customer",
+    "authors": [
+      "Michael Levy"
+    ],
+    "publisher": "Hall-Leon",
+    "description": "Or morning performance grow bring fund. Stop station computer option soldier which want.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$14.59",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book29",
+    "title": "Hope bag four upon mind",
+    "authors": [
+      "Katherine Morales"
+    ],
+    "publisher": "Vargas, Harrison and Burton",
+    "description": "Identify together somebody employee ahead suddenly huge. Hear single when. Every edge field day.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$24.33",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book30",
+    "title": "Try month",
+    "authors": [
+      "Megan Parker"
+    ],
+    "publisher": "Dunn-Bell",
+    "description": "Arrive worker provide today. Despite approach up physical glass eight.\nActivity fish buy. Evidence back instead face run. Black kitchen community if.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$13.96",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book31",
+    "title": "Ground oil clearly so",
+    "authors": [
+      "Mary Martinez"
+    ],
+    "publisher": "Johnson LLC",
+    "description": "Everything card kind leave drug yard into quality. Point at far visit peace others choice. Type boy area change speak claim.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$17.84",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book32",
+    "title": "Any personal protect",
+    "authors": [
+      "Edward Young"
+    ],
+    "publisher": "Williams, Ortiz and Williams",
+    "description": "Spring suggest rock environment. Final capital series avoid college cut. Enjoy outside international east.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$18.30",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book33",
+    "title": "Hope each approach card",
+    "authors": [
+      "Matthew Hardin"
+    ],
+    "publisher": "Rodriguez, Parker and Thomas",
+    "description": "Defense sport form describe. Position mission scientist first.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$27.29",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book34",
+    "title": "Hair pass performance west her",
+    "authors": [
+      "Sophia Wood"
+    ],
+    "publisher": "Abbott PLC",
+    "description": "Through yeah third method middle. Majority change help pull lay meeting.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$9.28",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book35",
+    "title": "Run view church",
+    "authors": [
+      "Daniel Gutierrez"
+    ],
+    "publisher": "Ramsey, Brewer and Mullins",
+    "description": "Opportunity share year relate those important land plant. Process through air begin.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$8.41",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book36",
+    "title": "Weight former reduce animal class",
+    "authors": [
+      "Charles Mejia"
+    ],
+    "publisher": "Mendoza, Garcia and Oneill",
+    "description": "Exist understand develop whether strategy popular goal expert. Per lot kitchen us study. Receive truth stop while good coach statement.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$28.14",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book37",
+    "title": "Floor second learn discussion rather",
+    "authors": [
+      "Allison Shelton"
+    ],
+    "publisher": "Armstrong-White",
+    "description": "Different they report. Concern down share break Mrs.\nBlood order every eight look serve.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$11.34",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book38",
+    "title": "Structure identify experience represent",
+    "authors": [
+      "Eric Holloway"
+    ],
+    "publisher": "Hahn, Hernandez and Francis",
+    "description": "Where agreement trade top. Buy daughter second guy play peace rich. Year ability view force soon form.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$27.27",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book39",
+    "title": "Wall garden knowledge",
+    "authors": [
+      "John Clark"
+    ],
+    "publisher": "Burton LLC",
+    "description": "Herself tree dinner. Help foot western all responsibility.\nLay happy when moment describe either. Who state already politics.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$28.44",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book40",
+    "title": "Believe my word",
+    "authors": [
+      "Crystal Bailey"
+    ],
+    "publisher": "Garcia, Hansen and Butler",
+    "description": "Matter early worker say evidence agency. Recent piece stand now different cell.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$19.97",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book41",
+    "title": "Dream hospital some whether treat",
+    "authors": [
+      "Aaron Mckinney DDS"
+    ],
+    "publisher": "Barr, Jimenez and Holmes",
+    "description": "World step important become choose door church car.\nResponse story wonder true. Result office raise.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$29.52",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book42",
+    "title": "These range",
+    "authors": [
+      "Julie Rosales"
+    ],
+    "publisher": "Martinez-Gonzalez",
+    "description": "Child lay indeed. Full history now operation individual professional. You new right kind lead coach.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$6.72",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book43",
+    "title": "Step interest performance far occur",
+    "authors": [
+      "Christopher Stewart"
+    ],
+    "publisher": "Byrd, Bauer and Taylor",
+    "description": "Bar find future ago approach shake must. Seven beautiful tend small much morning.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$18.12",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book44",
+    "title": "All group laugh speech star",
+    "authors": [
+      "Jeremy Jordan"
+    ],
+    "publisher": "Romero, Martin and Carrillo",
+    "description": "Attack have film them close technology.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$18.30",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book45",
+    "title": "Measure morning near charge",
+    "authors": [
+      "Kara Lopez"
+    ],
+    "publisher": "Perez, Duran and Gould",
+    "description": "Nor adult miss finish fall third happen minute. Large world house order. Power return democratic.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$13.15",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book46",
+    "title": "Quite minute",
+    "authors": [
+      "Brian Cunningham"
+    ],
+    "publisher": "Carlson, Edwards and Crosby",
+    "description": "All white bring. Positive people form mention knowledge several significant someone.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$16.70",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book47",
+    "title": "Spring sound budget",
+    "authors": [
+      "Jermaine Woods"
+    ],
+    "publisher": "Thompson Group",
+    "description": "Until perform rate although draw nice activity. Raise task country house onto difficult on. Hard recent activity model.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$16.04",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book48",
+    "title": "Them particular research card",
+    "authors": [
+      "Anthony Allison"
+    ],
+    "publisher": "Patel-Cox",
+    "description": "Shoulder item eat west recent society position. Us peace government season.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$9.76",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book49",
+    "title": "Give reduce education",
+    "authors": [
+      "George Graham"
+    ],
+    "publisher": "Hernandez, George and Bautista",
+    "description": "Off to fact officer. Begin our morning knowledge citizen home career series.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$19.15",
+    "previewLink": "https://example.com/preview"
+  },
+  {
+    "id": "book50",
+    "title": "Sing five line",
+    "authors": [
+      "Carla Johnson"
+    ],
+    "publisher": "Hill, Johnson and Flores",
+    "description": "Rest defense test. Entire list trade coach success southern. Mrs again soldier consumer.",
+    "thumbnail": "https://via.placeholder.com/128x195.png?text=Book+Cover",
+    "price": "$29.02",
+    "previewLink": "https://example.com/preview"
+  }
+]
