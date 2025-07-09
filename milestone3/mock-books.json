@@ -7,9 +7,9 @@
     ],
     "publisher": "Simon & Schuster",
     "description": "In a world where death has been conquered, Scythes are the only ones who can end life\u2014and they are commanded to do so to keep the population under control.",
-    "thumbnail": "https://books.google.com/books/content?id=RM1DDgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "thumbnail": "https://covers.openlibrary.org/b/isbn/9781442472426-L.jpg",
     "price": "$10.99",
-    "previewLink": "https://books.google.com/books?id=RM1DDgAAQBAJ"
+    "previewLink": "https://openlibrary.org/isbn/9781442472426"
   },
   {
     "id": "book2",
@@ -19,9 +19,9 @@
     ],
     "publisher": "Simon & Schuster",
     "description": "The Thunderhead cannot interfere in the affairs of the Scythedom. All it can do is observe\u2014it does not like what it sees.",
-    "thumbnail": "https://books.google.com/books/content?id=LY8rDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "thumbnail": "https://covers.openlibrary.org/b/isbn/9781442472457-L.jpg",
     "price": "$11.99",
-    "previewLink": "https://books.google.com/books?id=LY8rDwAAQBAJ"
+    "previewLink": "https://openlibrary.org/isbn/9781442472457"
   },
   {
     "id": "book3",
@@ -31,9 +31,9 @@
     ],
     "publisher": "Simon & Schuster",
     "description": "In the highly anticipated finale to the Arc of a Scythe trilogy, secrets are revealed and the fate of humanity hangs in the balance.",
-    "thumbnail": "https://books.google.com/books/content?id=rq2pDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "thumbnail": "https://covers.openlibrary.org/b/isbn/9781481497060-L.jpg",
     "price": "$12.99",
-    "previewLink": "https://books.google.com/books?id=rq2pDwAAQBAJ"
+    "previewLink": "https://openlibrary.org/isbn/9781481497060"
   },
   {
     "id": "book4",
@@ -47,9 +47,9 @@
     ],
     "publisher": "First Second",
     "description": "Based on the wildly popular Dungeons & Dragons podcast, this graphic novel brings the McElroys' hilarity to the page.",
-    "thumbnail": "https://books.google.com/books/content?id=rF1PDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "thumbnail": "https://covers.openlibrary.org/b/isbn/9781250153708-L.jpg",
     "price": "$14.99",
-    "previewLink": "https://books.google.com/books?id=rF1PDwAAQBAJ"
+    "previewLink": "https://openlibrary.org/isbn/9781250153708"
   },
   {
     "id": "book5",
@@ -63,9 +63,9 @@
     ],
     "publisher": "First Second",
     "description": "The second graphic novel from The Adventure Zone series, full of murder, mystery, and laughs aboard a magical train.",
-    "thumbnail": "https://books.google.com/books/content?id=QtqFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "thumbnail": "https://covers.openlibrary.org/b/isbn/9781250153715-L.jpg",
     "price": "$15.99",
-    "previewLink": "https://books.google.com/books?id=QtqFDwAAQBAJ"
+    "previewLink": "https://openlibrary.org/isbn/9781250153715"
   },
   {
     "id": "book6",
@@ -75,9 +75,9 @@
     ],
     "publisher": "Scholastic Inc.",
     "description": "Katniss Everdeen volunteers to take her sister's place in a fight to the death in the Hunger Games.",
-    "thumbnail": "https://books.google.com/books/content?id=mfL1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "thumbnail": "https://covers.openlibrary.org/b/isbn/9780439023481-L.jpg",
     "price": "$9.99",
-    "previewLink": "https://books.google.com/books?id=mfL1DwAAQBAJ"
+    "previewLink": "https://openlibrary.org/isbn/9780439023481"
   },
   {
     "id": "book7",
@@ -87,9 +87,9 @@
     ],
     "publisher": "Scholastic Inc.",
     "description": "The second book of the Hunger Games trilogy, Katniss faces rebellion and new challenges in the arena.",
-    "thumbnail": "https://books.google.com/books/content?id=iU_JAwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "thumbnail": "https://covers.openlibrary.org/b/isbn/9780439023498-L.jpg",
     "price": "$9.99",
-    "previewLink": "https://books.google.com/books?id=iU_JAwAAQBAJ"
+    "previewLink": "https://openlibrary.org/isbn/9780439023498"
   },
   {
     "id": "book8",
@@ -99,9 +99,9 @@
     ],
     "publisher": "Scholastic Inc.",
     "description": "Katniss becomes the face of rebellion in the stunning conclusion to the Hunger Games trilogy.",
-    "thumbnail": "https://books.google.com/books/content?id=w9ZdDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "thumbnail": "https://covers.openlibrary.org/b/isbn/9780439023511-L.jpg",
     "price": "$9.99",
-    "previewLink": "https://books.google.com/books?id=w9ZdDwAAQBAJ"
+    "previewLink": "https://openlibrary.org/isbn/9780439023511"
   },
   {
     "id": "book9",
@@ -111,56 +111,20 @@
     ],
     "publisher": "Houghton Mifflin Harcourt",
     "description": "A dystopian novel set in a totalitarian society ruled by Big Brother.",
-    "thumbnail": "https://books.google.com/books/content?id=kotPYEqx7kMC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "price": "$12.02",
-    "previewLink": "https://books.google.com/books?id=kotPYEqx7kMC"
+    "thumbnail": "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg",
+    "price": "$8.99",
+    "previewLink": "https://openlibrary.org/isbn/9780451524935"
   },
   {
     "id": "book10",
-    "title": "Brave New World",
-    "authors": [
-      "Aldous Huxley"
-    ],
-    "publisher": "Harper Perennial",
-    "description": "A visionary dystopian novel about a future controlled by pleasure and conformity.",
-    "thumbnail": "https://books.google.com/books/content?id=ekC-MAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "price": "$15.12",
-    "previewLink": "https://books.google.com/books?id=ekC-MAEACAAJ"
-  },
-  {
-    "id": "book11",
     "title": "To Kill a Mockingbird",
     "authors": [
       "Harper Lee"
     ],
     "publisher": "HarperCollins",
     "description": "A story of racial injustice and childhood innocence in the Deep South.",
-    "thumbnail": "https://books.google.com/books/content?id=PGR2AwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "price": "$15.45",
-    "previewLink": "https://books.google.com/books?id=PGR2AwAAQBAJ"
-  },
-  {
-    "id": "book12",
-    "title": "The Great Gatsby",
-    "authors": [
-      "F. Scott Fitzgerald"
-    ],
-    "publisher": "Scribner",
-    "description": "A critique of the American Dream through the lens of 1920s decadence.",
-    "thumbnail": "https://books.google.com/books/content?id=e6J5zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "price": "$14.67",
-    "previewLink": "https://books.google.com/books?id=e6J5zQEACAAJ"
-  },
-  {
-    "id": "book13",
-    "title": "The Catcher in the Rye",
-    "authors": [
-      "J.D. Salinger"
-    ],
-    "publisher": "Little, Brown",
-    "description": "A novel about teenage rebellion and identity, told by Holden Caulfield.",
-    "thumbnail": "https://books.google.com/books/content?id=z7RZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "price": "$17.65",
-    "previewLink": "https://books.google.com/books?id=z7RZAAAAMAAJ"
-  },
+    "thumbnail": "https://covers.openlibrary.org/b/isbn/9780061120084-L.jpg",
+    "price": "$7.99",
+    "previewLink": "https://openlibrary.org/isbn/9780061120084"
+  }
 ]
