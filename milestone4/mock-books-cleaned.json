@@ -1,0 +1,38 @@
+[
+  {
+    "id": "book1",
+    "title": "Scythe",
+    "authors": [
+      "Neal Shusterman"
+    ],
+    "publisher": "Simon & Schuster",
+    "description": "In a world where death has been conquered, Scythes are the only ones who can end life\u2014and they are commanded to do so to keep the population under control.",
+    "thumbnail": "https://covers.openlibrary.org/b/isbn/9781442472426-L.jpg",
+    "price": "$10.99",
+    "previewLink": "https://openlibrary.org/isbn/9781442472426"
+  },
+  {
+    "id": "book2",
+    "title": "Thunderhead",
+    "authors": [
+      "Neal Shusterman"
+    ],
+    "publisher": "Simon & Schuster",
+    "description": "The Thunderhead cannot interfere in the affairs of the Scythedom. All it can do is observe\u2014it does not like what it sees.",
+    "thumbnail": "https://covers.openlibrary.org/b/isbn/9781442472457-L.jpg",
+    "price": "$11.99",
+    "previewLink": "https://openlibrary.org/isbn/9781442472457"
+  },
+  {
+    "id": "book3",
+    "title": "The Toll",
+    "authors": [
+      "Neal Shusterman"
+    ],
+    "publisher": "Simon & Schuster",
+    "description": "In the highly anticipated finale to the Arc of a Scythe trilogy, secrets are revealed and the fate of humanity hangs in the balance.",
+    "thumbnail": "https://covers.openlibrary.org/b/isbn/9781481497060-L.jpg",
+    "price": "$12.99",
+    "previewLink": "https://openlibrary.org/isbn/9781481497060"
+  }
+]

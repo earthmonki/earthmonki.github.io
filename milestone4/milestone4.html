@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Milestone 4 Book Viewer</title>
+<link rel="stylesheet" href="styles.css">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="mustache.min.js"></script>
+<script src="script.js" defer></script>
+</head>
+<body>
+<header>
+  <h1>Milestone 4: Book Viewer</h1>
+  <nav>
+    <button id="showSearchTab">Search</button>
+    <button id="showBookshelfTab">Bookshelf</button>
+  </nav>
+</header>
+
+<section id="controls">
+  <input type="text" id="searchInput" placeholder="Search books...">
+  <button id="searchBtn">Search</button>
+  <button id="toggleView">Switch to List View</button>
+</section>
+
+<section id="searchHistorySection">
+  <h2>Search History</h2>
+  <ul id="searchHistory"></ul>
+</section>
+
+<section id="resultsSection">
+  <div id="resultsContainer" class="grid-view"></div>
+  <div id="paginationControls">
+    <button id="prevPage">Previous</button>
+    <span id="pageInfo"></span>
+    <button id="nextPage">Next</button>
+  </div>
+</section>
+
+<section id="detailsSection" class="hidden"></section>
+
+<section id="bookshelfSection" class="hidden">
+  <h2>My Bookshelf</h2>
+  <div id="bookshelfContainer" class="grid-view"></div>
+</section>
+
+<script id="result-template" type="x-tmpl-mustache">
+  <div class="book-item" data-id="{{id}}">
+    <img src="{{thumbnail}}" alt="{{title}}">
+    <h3>{{title}}</h3>
+    <p>{{authors}}</p>
+  </div>
+</script>
+
+<script id="detail-template" type="x-tmpl-mustache">
+  <div class="book-detail">
+    <h2>{{title}}</h2>
+    <img src="{{thumbnail}}" alt="{{title}}">
+    <p><strong>Authors:</strong> {{authors}}</p>
+    <p><strong>Publisher:</strong> {{publisher}}</p>
+    <p><strong>Description:</strong> {{description}}</p>
+    <p><strong>Price:</strong> {{price}}</p>
+    <a href="{{previewLink}}" target="_blank">Preview Book</a>
+    <button id="closeDetail">Close</button>
+  </div>
+</script>
+
+<script id="bookshelf-template" type="x-tmpl-mustache">
+  <div class="book-item" data-id="{{id}}">
+    <img src="{{thumbnail}}" alt="{{title}}">
+    <h3>{{title}}</h3>
+    <p>{{authors}}</p>
+  </div>
+</script>
+
+</body>
+</html>

@@ -1,0 +1,12 @@
+body{font-family:Arial,sans-serif;margin:0;padding:0;background:#f5f5f5;}
+header{background:#333;color:#fff;padding:10px;text-align:center;}
+nav button{margin:5px;}
+#controls{text-align:center;margin:15px;}
+#resultsContainer.grid-view,#bookshelfContainer.grid-view{display:flex;flex-wrap:wrap;justify-content:center;gap:15px;}
+#resultsContainer.list-view .book-item,#bookshelfContainer.list-view .book-item{display:flex;align-items:center;gap:10px;border-bottom:1px solid #ccc;padding:10px;}
+.book-item{background:#fff;padding:10px;width:180px;text-align:center;cursor:pointer;}
+.book-item img{max-width:100%;height:auto;}
+#detailsSection{background:#fff;padding:20px;margin:15px;border:1px solid #ccc;}
+.hidden{display:none;}
+#paginationControls{text-align:center;margin:15px;}
+#searchHistorySection{background:#fff;margin:10px;padding:10px;border:1px solid #ccc;}
